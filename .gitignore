@@ -1,0 +1,9 @@
+/.idea/
+**/*.pyc
+.env
+.venv/
+.vscode/
+**/__pycache__/
+/venvterminal/
+*.code-workspace
+.DS_Store
